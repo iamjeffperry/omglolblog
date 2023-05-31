@@ -1,4 +1,5 @@
 ---
+Type: Page
 Slug: landing-page
 ---
 
