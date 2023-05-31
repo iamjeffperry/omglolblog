@@ -7,7 +7,7 @@ Weblog title: Jeff Perry
 Weblog description: outward links, inward essays.
 Author: Jeff Perry
 // Canonical domain: elsewhere.tld
-// Landing page: /landing-page/
+Landing page: /landing-page
 Landing page template: Landing Page Template
 
 
