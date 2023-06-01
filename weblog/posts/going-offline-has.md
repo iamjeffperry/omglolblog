@@ -11,7 +11,7 @@ Before I get into the _what_ let me get into the _why_. As someone that has m
 
 So, to fix this I decided to use a [Bullet Journal](https://bulletjournal.com/) and an [AlphaSmart Neo 2](https://en.m.wikipedia.org/wiki/AlphaSmart).
 
-[![](https://jeffperry.b-cdn.net/9101492104.jpg)
+![](https://jeffperry.b-cdn.net/9101492104.jpg)
 
 Bullet Journal
 --------------
