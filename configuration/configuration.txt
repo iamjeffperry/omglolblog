@@ -18,7 +18,7 @@ Separator:  ·
 // Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
 Navigation: [Home](/), about, [RSS](/rss.xml)
 Files path: /files/
-Landing page post count: 3
+// Landing page post count: 3
 // Landing page post length: 45 words
 Post template: Post Template
 
