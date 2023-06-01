@@ -1,6 +1,7 @@
 ---
 Title: Test Post
 Date: 2023-05-31 20:34
+Status: Draft
 ---
 
 # Heading 1
