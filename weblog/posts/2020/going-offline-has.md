@@ -3,7 +3,7 @@ title: Going Offline Has Made Me Better
 date: 2020-09-08T05:00:00-0400
 ---
 
-# Going Offline Has Made Me Better
+# 2020-Going Offline Has Made Me Better
 
 Lately I have found myself gravitating to tools that don’t offer any kind of internet access whatsoever. As some say, I have been using items “off the grid.”
 
