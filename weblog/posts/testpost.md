@@ -1,5 +1,5 @@
 ---
-Title: Test Post 3
+Title: Template Post
 Date: 2023-05-31 13:08
 Status: Draft
 # Type: Page
@@ -8,6 +8,6 @@ Slug: custom-slug
 Tags: test, template, meta
 ---
 
-# Test Post 3
+# Template Post
 
 This is another test. Thanks!
