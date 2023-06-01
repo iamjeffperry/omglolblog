@@ -1,4 +1,5 @@
 ---
+Title: Landing Page
 Type: Page
 Slug: landing-page
 ---
