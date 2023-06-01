@@ -3,7 +3,8 @@ title: Writing Mode Shortcut
 date: 2020-04-17T20:00:00-0400
 ---
 
-# 2020-Writing Mode Shortcut
+# Writing Mode Shortcut
+
 After making writing a routine for this newsletter, I wanted to automate things a bit so that I can get into the [writing flow](https://www.writersdigest.com/wd-books/on-writing-fiction-excerpt) even faster. After some tweaking, I think I have finally created a version 1.0 of my Writing Mode Shortcut.
 
 ![](https://jeffperry.b-cdn.net/15526fb897.jpg)

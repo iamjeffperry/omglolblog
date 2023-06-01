@@ -3,7 +3,7 @@ title: Look at the Engine, not the Color of the Car
 date: 2020-09-30T05:00:00-0400
 ---
 
-# 2020-Look at the Engine, not the Color of the Car
+# Look at the Engine, not the Color of the Car
 
 ![](https://jeffperry.b-cdn.net/430a45acde.jpg)
 
