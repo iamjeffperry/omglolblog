@@ -19,7 +19,7 @@ Separator:  ·
 Navigation: [Home](/), about, [RSS](/rss.xml)
 Files path: /files/
 Landing page post count: 5
-// Landing page post length: 45 words
+Landing page post length: 45 words
 Post template: Post Template
 
 
