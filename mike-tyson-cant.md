@@ -2,7 +2,10 @@
 date: 2022-04-05T09:16:00-0400
 Format: link
 Tags: Weird, Weed
+Title: Mike Tyson Can’t Sell His Weed Gummies in Colorado
 ---
+# Mike Tyson Can’t Sell His Weed Gummies in Colorado
+
 Mike Tyson, who famously [bit Evander Holyfield’s ear](https://www.youtube.com/watch?v=zKPMVex-UKk), is now selling THC edibles in the shape of the mangled ear. The name of those gummies: Mike Bites.
 
 ![ItsTyson20/Instagram](https://jeffperry.b-cdn.net/f8a5b6b449.jpg)
