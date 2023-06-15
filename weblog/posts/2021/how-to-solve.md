@@ -9,7 +9,7 @@ In a recent chat on Clubhouse with [Matthew Cassinelli](https://www.matthewcassi
 
 > _**How can I get someone new to Shortcuts start using it more?**_
 
-My original answer was to solve a problem with Shortcuts for them. I still stand by that statement, but I want to elaborate more. When I say ““solve a problem” “it can mean a multituide of things.
+My original answer was to solve a problem with Shortcuts for them. I still stand by that statement, but I want to elaborate more. When I say ““solve a problem” “it can mean a multituide of things. 
 
 ### Get Somewhere Faster
 

@@ -11,7 +11,7 @@ After making writing a routine for this newsletter, I wanted to automate things 
 
 Essentially, this Shortcut sets the brightness and volume where I want it, creates an event called “Writing” in my calendar, sets Do Not Disturb, Opens Drafts, and adds a word of encouragement before I get started.
 
-Here’s a breakdown of each item.
+Here’s a breakdown of each item. 
 
 Set Volume
 ----------
