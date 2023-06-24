@@ -1,5 +1,4 @@
 ---
-
 title: Cult of the Lamb: Doom & Shroom
 date: 2023-03-21T08:00:00-0400
 ---
