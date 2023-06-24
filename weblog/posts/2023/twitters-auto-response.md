@@ -2,6 +2,7 @@
 title: Twitter’s Auto Response to the Press is a Poop Emoji
 date: 2023-03-20T09:00:00-0400
 ---
+
 # Twitter’s Auto Response to the Press is a Poop Emoji
 
 Twitter, AKA the “Free Speech” platform is now changing how they respond to journalists looking to get information from the company. Instead of a reply either giving journalists doing their job or even a simple “no comment” Twitter is now auto-responding with a poop emoji.

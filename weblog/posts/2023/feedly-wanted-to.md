@@ -2,6 +2,7 @@
 title: Feedly wanted to track protests and riots for companies, until they got destroyed on Twitter
 date: 2023-03-30T12:00:00-0400
 ---
+
 # Feedly wanted to track protests and riots for companies, until they got destroyed on Twitter
 
 Feedly, the popular RSS feed service, recently came under fire for a now-deleted blog post ([here is an Internet Wayback Machine link](https://web.archive.org/web/20230329162149/https://blog.feedly.com/how-to-track-protests-in-your-market-with-feedly-ai/)) in which they discussed using AI models to track protests, riots, and rallies. Many people were concerned that this technology could be used by employers and corporations to engage in union busting, worker surveillance, and strikebreaking.

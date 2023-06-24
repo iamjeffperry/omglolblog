@@ -2,6 +2,7 @@
 title: Huge Changes for New Mastodon Users
 date: 2023-05-02T11:23:00-0400
 ---
+
 # Huge Changes for New Mastodon Users
 
 People signing up for Mastodon will no longer have to worry about what server to go to. Instead, Mastodon will now be defaulting to a server they operate. Eugen Rochko, Mastodon’s Founder and CEO, [explained](https://blog.joinmastodon.org/2023/05/a-new-onboarding-experience-on-mastodon/?ref=jeffperry.me) his reasoning for this saying that “\[m\]aking the onboarding process as easy as possible helps new users get past the sign-up process and more quickly engage with others.”

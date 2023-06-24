@@ -2,6 +2,7 @@
 title: Mehdi Hasan Dismantles the Entire Foundation of the Twitter Files as Matt Taibbi Stumbles to Defend it
 date: 2023-04-07T10:45:00-0400
 ---
+
 # Mehdi Hasan Dismantles the Entire Foundation of the Twitter Files as Matt Taibbi Stumbles to Defend it
 
 Along with the full interview of MSNBC’s Mehdi Hasan interviewing Matt Taibbi, [_Tech Dirt_](https://www.techdirt.com/2023/04/07/mehdi-hasan-dismantles-the-entire-foundation-of-the-twitter-files-as-matt-taibbi-stumbles-to-defend-it/) goes into even more detail about the errors and inaccuracies Taibii brought with his reporting on the Twitter Files.

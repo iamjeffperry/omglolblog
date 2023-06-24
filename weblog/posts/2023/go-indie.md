@@ -2,6 +2,7 @@
 title: Go Indie
 date: 2023-04-13T09:12:28-0400
 ---
+
 # Go Indie
 
 [Nick Heer writing on Pixel Envy](https://pxlnv.com/blog/go-indie/):

@@ -2,6 +2,7 @@
 title: Introducing Substack Notes
 date: 2023-04-05T10:00:00-0400
 ---
+
 # Introducing Substack Notes
 
 [From Substack](https://on.substack.com/p/introducing-notes):

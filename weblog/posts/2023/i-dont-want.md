@@ -2,6 +2,7 @@
 title: I don’t want to log in to your website
 date: 2023-03-15T09:00:00-0400
 ---
+
 # I don’t want to log in to your website
 
 [Elizabeth Lopatto writing for The Verge](https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell):

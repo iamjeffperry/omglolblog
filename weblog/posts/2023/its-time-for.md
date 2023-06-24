@@ -2,6 +2,7 @@
 title: It's time for journalists to leave Twitter
 date: 2023-05-02T11:44:00-0400
 ---
+
 # It's time for journalists to leave Twitter
 
 I was listening to a [recent episode](https://www.nytimes.com/2023/04/14/podcasts/hard-fork-discord-leaker.html?ref=jeffperry.me) of the podcast _Hard Fork_, and a specific part of it really resonated with me. It was where

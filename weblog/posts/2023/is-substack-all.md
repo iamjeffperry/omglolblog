@@ -2,6 +2,7 @@
 title: Is Substack All Bad?
 date: 2023-04-10T09:26:34-0400
 ---
+
 # Is Substack All Bad?
 I have been eating popcorn all weekend as I read more and more about the dispute between Substack and Twitter. If you haven’t been following the Twitter and Substack drama, you can [check out](https://www.theverge.com/2023/4/6/23673067/twitter-api-shutdown-bots-botpocalypse-begins) a great timeline of events from _The Verge_.
 

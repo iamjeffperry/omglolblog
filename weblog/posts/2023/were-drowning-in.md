@@ -2,6 +2,7 @@
 title: We’re Drowning in Subscriptions
 date: 2023-03-20T08:00:00-0400
 ---
+
 # We’re Drowning in Subscriptions
 
 [Leticia Miranda writing for Bloomberg](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too):

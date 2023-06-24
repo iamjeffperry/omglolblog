@@ -2,6 +2,7 @@
 title: A Better Shade of Blue
 date: 2023-04-07T09:33:00-0400
 ---
+
 # A Better Shade of Blue
 
 [Daniel Jalkut on Red Sweater’s blog](https://redsweater.com/blog/4010/marsedit-5-0-5-a-better-shade-of-blue):

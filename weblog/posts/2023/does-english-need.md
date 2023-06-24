@@ -2,6 +2,7 @@
 title: Does English Need a New Alphabet?
 date: 2023-03-27T05:00:00-0400
 ---
+
 # Does English Need a New Alphabet?
 
 [Alec Bellos writing for Atlas Obscura](https://www.atlasobscura.com/articles/puzzles-shavian-language?utm_source=pocket_saves):

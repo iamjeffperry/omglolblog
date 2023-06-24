@@ -2,6 +2,7 @@
 title: BuzzFeed Is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes
 date: 2023-03-30T09:39:00-0400
 ---
+
 # BuzzFeed Is Quietly Publishing Whole AI-Generated Articles, Not Just Quizzes
 
 [Noor Al-Sibai and Jon Christian writing for Futurism](https://futurism.com/buzzfeed-publishing-articles-by-ai):

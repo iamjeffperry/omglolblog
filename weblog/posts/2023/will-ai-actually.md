@@ -2,6 +2,7 @@
 title: Will AI Actually Mean We’ll Be Able to Work Less?
 date: 2023-03-21T06:45:00-0400
 ---
+
 # Will AI Actually Mean We’ll Be Able to Work Less?
 
 [Elizabeth M. Renieris writing for _The Walrus_](https://thewalrus.ca/will-ai-actually-mean-well-be-able-to-work-less/?utm_source=pocket_discover):

@@ -2,6 +2,7 @@
 title: Apple’s Newsroom Blog Debuts New ‘Quick Read’ Post
 date: 2023-04-11T11:28:38-0400
 ---
+
 # Apple’s Newsroom Blog Debuts New ‘Quick Read’ Post
 
 <!-- wp:paragraph -->

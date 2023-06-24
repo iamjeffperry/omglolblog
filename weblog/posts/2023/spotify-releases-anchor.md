@@ -2,6 +2,7 @@
 title: Spotify Releases Anchor Replacement Spotify for Podcasters
 date: 2023-03-29T09:00:00-0400
 ---
+
 # Spotify Releases Anchor Replacement Spotify for Podcasters
 
 [From Spotify’s news blog](https://podcasters.spotify.com/resources/news/announcement?utm_source=email&utm_medium=braze&utm_campaign=s4plaunch&utm_term=hosted_4&%24web_only=true):

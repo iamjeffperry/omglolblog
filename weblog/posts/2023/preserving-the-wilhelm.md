@@ -2,6 +2,7 @@
 title: Preserving the Wilhelm Scream
 date: 2023-04-10T11:27:48-0400
 ---
+
 # Preserving the Wilhelm Scream
 
 Craig Smith wrote [a very interesting post](https://blog.freesound.org/?p=1515&utm_source=pocket_saves) for Freesound. In it he explained how took tape with sound effects ranging from the 30’s and 80’s and restored them. The kicker is that one of those recordings was the Wilhelm Scream.
