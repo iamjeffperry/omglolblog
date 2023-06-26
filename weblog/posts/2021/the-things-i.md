@@ -2,6 +2,7 @@
 title: The 5 Things I Learned from Casey Newton
 date: 2021-08-04T20:00:00-0400
 ---
+
 # The 5 Things I Learned from Casey Newton
 
 In the latest episode of _[A Slab of Glass](https://clicked.news/p/casey-newtons-writing-process-854?s=r)_ I interviewed [Casey Newton](https://twitter.com/CaseyNewton), creator of _[Platformer](https://www.platformer.news/)_, about his writing process. This is what I learned in the interview.

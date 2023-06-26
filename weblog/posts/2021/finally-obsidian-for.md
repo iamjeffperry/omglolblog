@@ -2,6 +2,7 @@
 title: Finally, Obsidian for iOS is Here
 date: 2021-07-14T20:00:00-0400
 ---
+
 # Finally, Obsidian for iOS is Here
 
 [Obsidian](https://obsidian.md/), the popular note taking app, [came out for iOS and iPadOS recently](https://thesweetsetup.com/obsidian-ios-app-is-now-available/). I have been playing with the beta for quite a while and Obsidian is becoming my favorite writing tool.

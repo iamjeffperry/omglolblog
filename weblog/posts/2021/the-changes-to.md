@@ -2,6 +2,7 @@
 title: The Changes to Shortcuts that Makes me Excited
 date: 2021-07-04T20:00:00-0400
 ---
+
 # The Changes to Shortcuts that Makes me Excited
 
 Now that the [Public Beta for iOS 15 is available](https://9to5mac.com/2021/06/30/ios-15-public-beta-download/), I thought I would talk about some of the changes and additions to Shortcuts that has me excited this year.

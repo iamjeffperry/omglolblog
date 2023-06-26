@@ -2,6 +2,7 @@
 title: Success and Failure at Pebble
 date: 2022-04-11T09:09:00-0400
 ---
+
 # Success and Failure at Pebble
 
 Eric Migicovsky, the former CEO of Pebble, [wrote a post](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232) recently detailing why the smartwatch company failed.

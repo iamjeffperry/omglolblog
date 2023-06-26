@@ -2,6 +2,7 @@
 title: The Man Behind iBeer
 date: 2022-04-25T08:52:00-0400
 ---
+
 # The Man Behind iBeer
 
 Steve Sheraton went from making a silly video online where he was drinking a beer with his iPhone into a full-fledged app, which then became a breakout star when the App Store launched.

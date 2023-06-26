@@ -2,6 +2,7 @@
 title: Apple Needs to Remove Weekly Subscriptions, Here’s Why
 date: 2021-04-11T20:00:00-0400
 ---
+
 # Apple needs to remove weekly subscriptions, here’s why
 
 As I was scrolling through Twitter last Monday, I came across a tweet by [Federico Viticci](http://twitter.com/viticci), editor-in-chief of [MacStories](https://www.macstories.net/), [showcasing an app](https://twitter.com/viticci/status/1379061689249828864) that is part of an ongoing problem in the App Store.

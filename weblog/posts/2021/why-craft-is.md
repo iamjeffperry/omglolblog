@@ -2,6 +2,7 @@
 title: Why Craft is the Note Taking King
 date: 2021-05-03T05:00:00-0400
 ---
+
 # Why Craft is the Note Taking King
 This weeks issue of Tablet Habit is going to be all things [Craft](http://craft.do/). This was originally going to just be an interview with CEO Balint Orosz but after spending more and more time with Craft I went into a rabbit hole.
 

@@ -2,6 +2,7 @@
 title: Mobile Games Are Trash and We All Know It
 date: 2022-07-10T05:00:00-0400
 ---
+
 # Mobile Games Are Trash and We All Know It
 
 [Matt Birchler](https://birchtree.me/blog/mobile-games-are-trash-and-we-all-know-it/):

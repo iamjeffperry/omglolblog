@@ -2,6 +2,7 @@
 title: How to Make Your Notes More Valuable
 date: 2021-07-25T20:00:00-0400
 ---
+
 # How to Make Your Notes More Valuable
 
 When I was in high school, I distinctly remember a moment where my social studies teacher was going through a lesson irregularly fast. It got to be so much of an issue that several students, myself included, begged him to slow down on his PowerPoint presentation so that we could write down what was on each slide. “You know,” my teacher began to say, “your generation is great at writing out notes and dictations of what us teachers say, but you rarely _take in_ the information we are giving you.” For _years_ this sentiment lived in my head _rent free_. I was personally offended by his tone and adamant that this was just a microaggression towards millennials. I have come to learn that I begrudgingly have to agree with his original statement, at least partially.

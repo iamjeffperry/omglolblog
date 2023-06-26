@@ -2,6 +2,7 @@
 title: The iPod is now dead
 date: 2022-05-10T08:39:00-0400
 ---
+
 # The iPod is now dead
 
 Apple has [officially said](https://www.apple.com/newsroom/2022/05/the-music-lives-on/?utm_source=pocket_mylist) that the iPod is no more. You can still buy one, but only while supplies last.

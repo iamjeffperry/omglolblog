@@ -2,6 +2,7 @@
 title: Craft Notes 101 with James Eaton
 date: 2021-08-30T07:29:00-0400
 ---
+
 # Craft Notes 101 with James Eaton
 Today I am happy to present a Craft 101 video with James Eaton where he walks me through how to set up my Craft notes system, what I can do to make it more useful, and how to get the most out of this app.
 

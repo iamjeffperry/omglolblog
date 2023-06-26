@@ -2,6 +2,7 @@
 title: What it Means to be a Creator
 date: 2022-05-10T20:00:00-0400
 ---
+
 # What it Means to be a Creator
 
 On May 9th [Jason Kottke announced he would be taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical) after over 24 years of blogging. He started his blog in 1998 and has been regularly posting and sharing links to intriguing things online ever since.

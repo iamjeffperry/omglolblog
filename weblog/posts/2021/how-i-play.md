@@ -2,6 +2,7 @@
 title: How I Play Pokemon on OpenEMU
 date: 2021-08-26T07:30:00-0400
 ---
+
 # How I Play Pokemon on OpenEMU
 
 As a kid growing up with a GameBoy Color (I had the Gorgeous Green version), Pokemon was one of the most constant games I played. I played Yellow, Red, Gold, and Ruby all to completion. After Pokemon Ruby I had a falling out with the games because it seemed to get more complicated with [IV and EV](https://dotesports.com/news/what-are-ivs-and-evs-in-pokemon#:~:text=IVs%20are%20hidden%20stats%20that,and%2031%20being%20the%20best.) being more prominent as well as [competitive play](https://en.wikipedia.org/wiki/Pok%C3%A9mon_competitive_play#:~:text=Competitive%20play%20in%20Pok%C3%A9mon%20generally,or%20when%20a%20player%20resigns.). I just wanted to catch Pokemon and beat the story in each game, not worry about whether the Pokemon I just caught is the strongest it can be. I moved on to other games on the Xbox 360 and PlayStation 3 at this time as well, which also became a factor in Pokemon drifting away from me as I grew older.

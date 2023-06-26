@@ -2,6 +2,7 @@
 title: Making Content for Yourself
 date: 2022-12-15T05:00:00-0400
 ---
+
 # Making Content for Yourself
 
 ![](https://jeffperry.b-cdn.net/content-yourself.jpg)

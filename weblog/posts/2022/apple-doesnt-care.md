@@ -2,6 +2,7 @@
 title: Apple doesn't care about iPad-first users
 date: 2022-10-25T05:00:00-0400
 ---
+
 # Apple doesn't care about iPad-first users
 
 As you probably saw, Apple has announced a new line of iPads, one being [a new base iPad](https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/) and the other being [the new M2 iPad Pro](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/). I would say that the responses online are primarily dunking on Apple’s odd decisions for the iPad lineup, and for good reason. I will provide a peek into some of these oddities, but I think these announcements from Apple are the nail in the coffin for many people hoping to see Apple truly lean into the iPad made for “real work.” Instead, Tuesday’s announcements have just reinforced the failings Apple has continually provided to iPad-first users.

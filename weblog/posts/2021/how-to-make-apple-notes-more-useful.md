@@ -2,6 +2,7 @@
 title: How to Make Apple Notes More Useful
 date: 2021-07-21T20:00:00-0400
 ---
+
 # How to Make Apple Notes More Useful
 
 This week I wanted to utilize the Apple Notes app, and how you can use the synergy with the Mac and your iPad or iPhone to up your note-taking game.

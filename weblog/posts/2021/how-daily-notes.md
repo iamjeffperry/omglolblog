@@ -2,6 +2,7 @@
 title: How Daily Notes Changed Everything for Me
 date: 2021-06-27T20:00:00-0400
 ---
+
 # How daily notes changed everything for me
 
 I have been on a note taking journey for some time, and its been both interesting and precarious. While I may not have finished this adventure yet, I have learned the value of daily notes.

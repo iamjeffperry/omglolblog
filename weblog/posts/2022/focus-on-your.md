@@ -2,6 +2,7 @@
 title: Focus on your platform, not someone else's
 date: 2022-09-21T05:09:00-0400
 ---
+
 # Focus on your platform, not someone else's
 
 [Lee Peterson](https://ljpuk.net/2022/09/21/put-value-into-your-blog-not-someone-elses-platform/):

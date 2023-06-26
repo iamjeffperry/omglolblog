@@ -2,6 +2,7 @@
 title: The Elephant in the Room
 date: 2021-08-09T05:00:00-0400
 ---
+
 # The Elephant in the Room
 
 ![](https://jeffperry.b-cdn.net/21a8eb8db6.jpg)

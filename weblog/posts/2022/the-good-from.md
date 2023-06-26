@@ -2,6 +2,7 @@
 title: The Good from Comic Sans
 date: 2022-04-02T09:15:00-0400
 ---
+
 # The Good from Comic Sans
 [David Hoang](https://twitter.com/davidhoang) shared [an article from The Cut](https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html) about the font Comic Sans and it raised my eyebrows to learn how accessible this abhorrent font is.
 

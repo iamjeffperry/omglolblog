@@ -2,6 +2,7 @@
 title: The Reason CNN+ Failed
 date: 2022-04-27T08:48:00-0400
 ---
+
 # The Reason CNN+ Failed
 
 The average housefly can live for around 28 days, which means that there are literal bugs that will have outlived CNN+ as they close their streaming service on April 30th.

@@ -2,6 +2,7 @@
 title: The impact of AI on content creators
 date: 2022-10-26T05:00:00-0400
 ---
+
 # The impact of AI on content creators
 
 ![](https://jeffperry.b-cdn.net/4d7dfcb344.jpg)

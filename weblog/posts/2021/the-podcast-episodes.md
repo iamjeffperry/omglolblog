@@ -2,6 +2,7 @@
 title: The podcast episodes that make me better
 date: 2021-08-11T20:00:00-0400
 ---
+
 # The podcast episodes that make me better
 
 I wanted to fulfill my promise of bringing some fun to this issue and share some podcast episodes I listen to fairly often. I have been an avid podcast listener as long as I can remember it being available on iTunes. As someone that drives two hours a day for my day job I fill the time almost exclusively with podcasts. This collection is just the tip of the iceberg for me, and the reason I listen to them multiple times varies. In general, it all boils down to a combination of enjoyment and knowledge. I have left every episode listed below feeling better than I was before I listened. If you want more, I am happy to add to the list in a future issue.

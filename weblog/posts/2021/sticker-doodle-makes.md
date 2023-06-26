@@ -2,6 +2,7 @@
 title: Sticker Doodle makes messaging fun again
 date: 2021-09-05T07:18:00-0400
 ---
+
 # Sticker Doodle makes messaging fun again
 
 Chad Etzel, who recently went independent, released one of the most fun apps for the iPhone this year.
