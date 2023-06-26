@@ -5,7 +5,7 @@ Title: Stylesheet
 Location: /style.css
 ---
 
-<!---From Github --->
+<!---From Github--->
 
 <style>
 .table-wrapper{
