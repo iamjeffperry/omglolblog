@@ -1,0 +1,105 @@
+<!--Main Template--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{post-title}{separator}{weblog-title}</title>
+<meta charset="utf-8">
+<link rel="icon" type="image/x-icon" href="https://cdn.some.pics/jeffperry/6499bd0aa0c84.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#288cf0">
+<meta name="apple-mobile-web-app-status-bar-style" content="#288cf0">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<style>
+@import url('https://static.omg.lol/type/font-honey.css');
+@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
+@import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
+:root {
+    --foreground: #353a44;
+    --background: #54cbca;
+    --link: #353a44;
+    --unimportant: #353a44;
+    --articleBG: #fffacd;
+    --navigation: #d7f7f4;
+    --sidebar1: #fffacd;
+    --sidebar2: #f1f1ff;
+    --sidebar3: #ffcdcd;
+    --sidebar4: #e1fadc;
+    --sidebar5: #ffe5cd;
+    --sidebar6: #e6d3f7;
+    --articleBorder: #ff4d60;
+}
+
+@media (prefers-color-scheme: dark){
+    :root {
+    --foreground: #eee;
+    --background: #083e73;
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #288cf0;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header><h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
+
+<main>
+
+<div class="flex-column">
+<div class="nav-box navigation"> {navigation} </div>
+</div>
+
+<div class="flex-column">
+<div class="box sidebar3">
+<h2>Latest Status</h2>
+<script src="https://status.lol/jeffperry.js?"></script>
+</div>
+<div class="box sidebar1">
+{body}
+<aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>
+</div>
+</div>
+
+<div class="flex-column">
+<div class="box sidebar2">
+<h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
+<form id="form"> 
+<input type="search" id="query" name="search" placeholder="Search...">
+<button aria-label="Search site"><i class="fa-solid fa-search"></i></button>
+</form>
+</div>
+
+
+
+<div class="box sidebar4">
+<h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
+{recent-posts}
+</div>
+
+<div class="box sidebar5">
+<h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
+<ul>
+<li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
+<li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
+<li><a href='/2023/01/who-are-you'>Who Are You?</a></li>
+<li><a href='/2023/01/adding-more-whimsy-to-your-life'>Adding More Whimsy To Your Life</a></li>
+</ul>
+</div>
+
+<div class="box sidebar6">
+<a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+</div>
+
+</div>
+
+</main>
+
+</main>
+<footer>
+<p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>
+</footer>
+</body>
+</html>
