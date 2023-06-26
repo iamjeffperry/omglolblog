@@ -2,8 +2,6 @@ Type: Template
 Title: Post Template
 
 <article>
-<h1>{title}</h1>
-{Title}
 {body}
 <aside class="post-info">
 	<a href="{location}"><i class="fa-solid fa-clock"></i> {date}</a>
