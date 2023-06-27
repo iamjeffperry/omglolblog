@@ -23,6 +23,14 @@ Timezone: EDT
 Date format: F j, Y
 
 
+;; Pagination
+;; ----------
+
+Pagination path: /page/
+Previous page template: <span class="previous-page"><a href="$previous_page">← Previous Page</a></span>
+Next page template: <span class="next-page"><a href="$next_page">Next Page →</a></span>
+
+
 ;; Recent posts {recent-posts}
 ;; ---------------------------
 Recent posts count: 5

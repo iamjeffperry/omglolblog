@@ -1,0 +1,126 @@
+<!--Main Template--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{post-title}{separator}{weblog-title}</title>
+<meta charset="utf-8">
+<link rel="icon" type="image/x-icon" href="https://cdn.some.pics/jeffperry/6499bd0aa0c84.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#54cbca">
+<meta name="apple-mobile-web-app-status-bar-style" content="#54cbca">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<style>
+@import url('https://static.omg.lol/type/font-honey.css');
+@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
+@import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
+:root {
+    --foreground: #353a44;
+    --background: #54cbca;
+    --link: #353a44;
+    --unimportant: #353a44;
+    --articleBG: #fffacd;
+    --navigation: #ffffff;
+    --sidebar1: #d7f7f4;
+    --sidebar2: #f1f1ff;
+    --sidebar3: #ffcdcd;
+    --sidebar4: #e1fadc;
+    --sidebar5: #ffe5cd;
+    --sidebar6: #e6d3f7;
+    --articleBorder: #ff4d60;
+}
+
+/* @media (prefers-color-scheme: dark){
+    blockquote {
+        background: #2c034b;
+    }
+  form {
+    background-color: #040447;
+  }
+  input {
+    color: var(--foreground);
+  }
+  :root {
+    --foreground: #e9e9e9;
+    --background: #213534;
+    --link: #e9e9e9;
+    --unimportant: #dadcdf;
+    --articleBG: #4B0082;
+    --navigation: #8B008B;
+    --sidebar1: #4B0082;
+    --sidebar2: #0f0f9b;
+    --sidebar3: #990707;
+    --sidebar4: #228B22;
+    --sidebar5: #FF4500;
+    --sidebar6: #827e00;
+    --articleBorder: #ff4d60;
+  } 
+  
+} */
+</style>
+</head>
+
+  <body>
+    <header>
+      <h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1>
+    </header>
+
+    <main>
+
+      <div class="flex-column">
+        <div class="nav-box navigation"> {navigation} </div>
+      </div>
+
+      <div class="flex-column">
+        <div class="box sidebar1">
+          {body}
+          <aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>
+        </div>
+
+        <div class="box sidebar6">
+          <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+        </div>
+      </div>
+
+      <div class="flex-column">
+        <div class="box sidebar4">
+          <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
+          {recent-posts}
+        </div>
+        
+        <div class="box sidebar3">
+          <h2>Latest Status</h2>
+          <script src="https://status.lol/jeffperry.js?"></script>
+        </div>
+
+        
+
+        
+
+        <div class="box sidebar5">
+          <h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
+          <ul>
+            <li><a href='/2021/05/why-craft-is-the-note-taking-king'>Why Craft is the Note Taking King</a></li>
+            <li><a href='/2022/04/the-reason-cnn-failed'>The Reason CNN+ Failed</a></li>
+            <li><a href='/2022/05/what-it-means-to-be-a-creator'>What it Means to be a Creator</a></li>
+            <li><a href='/2022/10/apple-doesnt-care-about-ipad-first-users'>Apple doesn't care about iPad-first users</a></li>
+            <li><a href="/2022/12/making-content-for-yourself">Making Content for Yourself</a></li>
+          </ul>
+      </div>
+
+      <div class="box sidebar2">
+        <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
+        <form id="form"> 
+          <input type="search" id="query" name="search" placeholder="Search...">
+          <button aria-label="Search site"><i class="fa-solid fa-search"></i></button>
+        </form>
+      </div>
+
+      </div>
+
+    </main>
+
+    <footer>
+      <p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>
+    </footer>
+  </body>
+</html>
