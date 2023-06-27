@@ -14,7 +14,7 @@ Author: Jeff Perry
 ;; --------------------
 Separator:  - 
 Navigation: <a href="/">Home</a>, about
-// Landing page post count: 1
+Landing page post count: 10
 
 
 ;; Time stuff
