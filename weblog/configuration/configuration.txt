@@ -7,7 +7,7 @@ Weblog Title: Jeff Perry
 Weblog Description: Outward Links, Inward Essays
 Author: Jeff Perry
 // Canonical domain: jeffperry.me
-Landing Page: Post Template
+Landing Page: Main Template
 
 
 ;; General config stuff
@@ -15,7 +15,7 @@ Landing Page: Post Template
 Separator:  - 
 Navigation: <a href="/">Home</a>, about
 Landing page post count: 10
-
+Post Template: Post Template
 
 ;; Time stuff
 ;; ----------
