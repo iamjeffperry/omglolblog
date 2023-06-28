@@ -21,9 +21,9 @@ Title: Landing Page Template
     --background: #54cbca;
     --link: #353a44;
     --unimportant: #353a44;
-    --articleBG: #fffacd;
+    --articleBG: #fffacd; /* #d7f7f4; */
     --navigation: #ffffff;
-    --sidebar1: #d7f7f4;
+    --sidebar1: #fffacd;
     --sidebar2: #f1f1ff;
     --sidebar3: #ffcdcd;
     --sidebar4: #e1fadc;
@@ -74,14 +74,12 @@ Title: Landing Page Template
       </div>
 
       <div class="flex-column">
-        <div class="box sidebar1">
+        
           {body}
-          <aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>
-        </div>
+          <!---<aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>--->
+        
 
-        <div class="box sidebar6">
-          <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
-        </div>
+        
       </div>
 
       <div class="flex-column">
@@ -90,6 +88,10 @@ Title: Landing Page Template
           {recent-posts}
         </div>
         
+       <div class="box sidebar6">
+          <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+        </div>
+
         <div class="box sidebar3">
           <h2>Latest Status</h2>
           <script src="https://status.lol/jeffperry.js?"></script>
