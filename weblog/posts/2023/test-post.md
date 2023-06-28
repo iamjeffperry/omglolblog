@@ -1,6 +1,6 @@
 ---
 date: 2023-06-28 09:00
-draft: yes
+Status: draft
 ---
 
 This is a test post without a title to see how it looks. 
