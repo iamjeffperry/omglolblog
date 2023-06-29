@@ -1,4 +1,4 @@
-<!--Main Template--->
+<!--Main Template from github 2--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,9 +18,9 @@
     --background: #54cbca;
     --link: #353a44;
     --unimportant: #353a44;
-    --articleBG: #fffacd;
+    --articleBG: #fffacd; /* #d7f7f4; */
     --navigation: #ffffff;
-    --sidebar1: #fffacd; /* #d7f7f4; */
+    --sidebar1: #fffacd;
     --sidebar2: #f1f1ff;
     --sidebar3: #ffcdcd;
     --sidebar4: #e1fadc;
@@ -65,15 +65,14 @@
     </header>
 
     <main>
-
-      <div class="flex-column">
+<div class="flex-column">
         <div class="nav-box navigation"> {navigation} </div>
       </div>
 
       <div class="flex-column">
         <div class="box sidebar1">
           {body}
-          <aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>
+          <!---<aside class="post-info"><i class="fa-solid fa-clock"></i> {date}{tags}</aside>--->
         </div>
 
         
@@ -83,10 +82,7 @@
         <div class="box sidebar4">
           <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
           {recent-posts}
-        </div>
-        
-       <div class="box sidebar6">
-          <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+          <a href="/archive"><p> <i class="fa-solid fa-archive"></i> Dig through the Archive</p></a>
         </div>
 
         <div class="box sidebar3">
@@ -94,7 +90,27 @@
           <script src="https://status.lol/jeffperry.js?"></script>
         </div>
 
-        
+        <div class="box sidebar6">
+          <h2>My Stuff</h2>
+            <ul>
+              <li><i class="fa-solid fa-rss"></i> <a href="https://blog.jeffperry.me">Blog</a></li>
+              <li><i class="fa-solid fa-newspaper"></i> <a href="https://newsletter.jeffperry.me">Newsletter</a></li>
+              <li><i class="fa-regular fa-calendar"></i> <a href="https://now.jeffperry.me">/Now</a></li>
+              <li><i class="fa-solid fa-face-smile"></i> <a href="https://status.jeffperry.me">Statuslog</a></li>
+              <li><i class="fa-brands fa-youtube"></i> <a href="https://www.youtube.com/channel/UCrWl73iwROXKCz8XLcXm0tw">Jeff Perry YouTube</a></li>
+              <li><i class="fa-brands fa-youtube"></i> <a href="https://www.youtube.com/channel/UCKpEGY0MAcgV8Sciy4-IOxA">Film Bite YouTube</a></li>
+              <li><i class="fa-solid fa-clipboard"></i> <a href="https://paste.jeffperry.me">Pastebin</a></li>
+              <li><i class="fa-solid fa-link"></i> <a href="https://links.jeffperry.me">PURL Links</a></li>
+            </ul>
+          <h2 id="social">Social</h2>
+            <ul>
+              <li><i class="fa-brands fa-mastodon"></i> <a href="https://social.lol/@jeffperry">@jeffperry@social.lol</a></li>
+              <li><i class="fa-brands fa-microblog"></i> <a href="https://micro.blog/jeffperry">@jeffperry</a></li>
+              <li><i class="fa-solid fa-cloud"></i> <a href="https://bsky.app/profile/jeffperry.me">@jeffperry.me</a></li>
+              <li><i class="fa-solid fa-envelope"></i> <a href="mailto:contact@jeffperry.me">Email me</a></li>
+            </ul>
+          </div>
+
 
         
 
