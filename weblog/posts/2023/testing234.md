@@ -1,6 +1,8 @@
 ---
 date: 2023-06-29
-tags: test
+tags: test, hello
 ---
 
-Another test this time with a commit
+# Testing
+
+This is a final test. 
