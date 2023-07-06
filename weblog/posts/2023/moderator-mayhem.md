@@ -3,7 +3,7 @@ title: Moderator Mayhem
 date: 2023-05-11T11:00:00-0400
 ---
 
-# [Moderator Mayhem](https://moderatormayhem.engine.is/)
+# Moderator Mayhem [{link}](https://moderatormayhem.engine.is/)
 
 Today _Techdirt_ released their second game, _[Moderator Mayhem](https://moderatormayhem.engine.is/)_ . It is a "game that lets you see how good a job you would do as a front line content moderator," Mike Masnick writes, "for a growing technology company that hosts user-generated content".
 
